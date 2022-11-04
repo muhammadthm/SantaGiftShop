@@ -1,4 +1,5 @@
 <?php
+$FLAG = 'THM1000111';
 /**
  * The base configuration for WordPress
  *
@@ -17,7 +18,7 @@
  *
  * @package WordPress
  */
-
+ 
 $ENV = "PROD"; //santagift.shop - Incase of QA, it will be qa.santagift.shop
 
 if($ENV = "QA"){
