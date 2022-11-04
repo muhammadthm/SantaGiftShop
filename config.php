@@ -1,7 +1,7 @@
 <?php
-$FLAG = '{THM1000111}';
+$FLAG = '{THM_OSINT_WORKS}';
 /**
- * If you have arrived here, the flag value is {THM1000111}
+ * If you have arrived here, the flag value is {THM_OSINT_WORKS}
  *
  * The wp-config.php creation script uses this file during the installation.
  * You don't have to use the web site, you can copy this file to "wp-config.php"
@@ -14,9 +14,7 @@ $FLAG = '{THM1000111}';
  * * Database table prefix
  * * ABSPATH
  *
- * @link https://wordpress.org/support/article/editing-wp-config-php/
  *
- * @package WordPress
  */
  
 $ENV = "PROD"; //santagift.shop - Incase of QA, it will be qa.santagift.shop
