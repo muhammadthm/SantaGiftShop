@@ -1,7 +1,7 @@
 <?php
-$FLAG = 'THM1000111';
+$FLAG = '{THM1000111}';
 /**
- * The base configuration for WordPress
+ * If you have arrived here, the flag value is {THM1000111}
  *
  * The wp-config.php creation script uses this file during the installation.
  * You don't have to use the web site, you can copy this file to "wp-config.php"
