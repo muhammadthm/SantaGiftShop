@@ -25,10 +25,10 @@ if($ENV = "QA"){
 define( 'DB_NAME', 'SantaGiftShop' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'ubuntu' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'S@ntaIsG00dB0yProdQA' );
+define( 'DB_PASSWORD', 'S@nta2022' );
 
 /** Database hostname */
 define( 'DB_HOST', 'qa.santagift.shop' );
@@ -49,10 +49,10 @@ if($ENV = "PROD"){
 define( 'DB_NAME', 'SantaGiftShop' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'ubuntu' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'S@ntaIsG00dB0yProd' );
+define( 'DB_PASSWORD', 'S@nta2022' );
 
 /** Database hostname */
 define( 'DB_HOST', 'santagift.shop' );
