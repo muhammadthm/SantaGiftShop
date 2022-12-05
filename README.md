@@ -1,6 +1,6 @@
 # Welcome to SantaGift.Shop!
 
-This repository contains source code for production and the QA website of `santagift.shop`. Only legitimate members/developers are allowed to access the website and make changes.
+This repository contains source code for production and the QA website of `santagift.shop`. Only legitimate members/developers are allowed to access the website and make changes.This  Data is not protected 
 
 
 # Files
